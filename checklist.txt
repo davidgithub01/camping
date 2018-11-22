@@ -3,6 +3,6 @@ Tent
 Rope
 Bacon
 Eggs
-Shotgun
 Fishing Pole
 Pocket Knife
+50c Coins
