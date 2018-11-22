@@ -1,6 +1,9 @@
 Water Bottle
 Tent
 Rope
+Flashlight
+Knife
+Pillow
 Backpack
 flip flops
 boots
